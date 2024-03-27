@@ -1,0 +1,10 @@
+{
+    "name": "yma-async",
+    "version": "1.0.0",
+    "description": "控制并发数",
+    "main": "./src/index.js",
+    "scripts": {},
+    "keywords": [],
+    "author": "yma",
+    "license": "ISC"
+}
